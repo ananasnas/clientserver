@@ -1,0 +1,69 @@
+c:\users\р\documents\visual studio 2013\Projects\server\server\bin\Debug\server.exe.config
+c:\users\р\documents\visual studio 2013\Projects\server\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+c:\users\р\documents\visual studio 2013\Projects\server\server\bin\Debug\server.exe
+c:\users\р\documents\visual studio 2013\Projects\server\server\bin\Debug\server.pdb
+c:\users\р\documents\visual studio 2013\Projects\server\server\obj\Debug\server.exe
+c:\users\р\documents\visual studio 2013\Projects\server\server\obj\Debug\server.pdb
+D:\Операционные системы\лр 5\server\server\bin\Debug\server.exe.config
+D:\Операционные системы\лр 5\server\server\obj\Debug\server.exe
+D:\Операционные системы\лр 5\server\server\obj\Debug\server.pdb
+D:\Операционные системы\лр 5\server\server\bin\Debug\server.exe
+D:\Операционные системы\лр 5\server\server\bin\Debug\server.pdb
+D:\Операционные системы\лр 5\server\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+C:\Users\р\Desktop\server_socket\server\bin\Debug\server.exe.config
+C:\Users\р\Desktop\server_socket\server\obj\Debug\server.exe
+C:\Users\р\Desktop\server_socket\server\obj\Debug\server.pdb
+C:\Users\р\Desktop\server_socket\server\bin\Debug\server.exe
+C:\Users\р\Desktop\server_socket\server\bin\Debug\server.pdb
+C:\Users\р\Desktop\server_socket\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+C:\Users\р\Desktop\server_socket\server\bin\Debug\Bib.dll
+C:\Users\р\Desktop\server_socket\server\bin\Debug\Bib.pdb
+D:\2 Распределенные системы\lab_1\server_socket\server\bin\Debug\server.exe.config
+D:\2 Распределенные системы\lab_1\server_socket\server\obj\Debug\server.exe
+D:\2 Распределенные системы\lab_1\server_socket\server\obj\Debug\server.pdb
+D:\2 Распределенные системы\lab_1\server_socket\server\bin\Debug\server.exe
+D:\2 Распределенные системы\lab_1\server_socket\server\bin\Debug\server.pdb
+D:\2 Распределенные системы\lab_1\server_socket\server\bin\Debug\Bib.pdb
+D:\2 Распределенные системы\lab_1\server_socket\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+E:\2 Распределенные системы\lab_1\server_socket\server\bin\Debug\server.exe.config
+E:\2 Распределенные системы\lab_1\server_socket\server\obj\Debug\server.exe
+E:\2 Распределенные системы\lab_1\server_socket\server\obj\Debug\server.pdb
+D:\2 Распределенные системы\lab_2\server_socket\server\bin\Debug\server.exe.config
+D:\2 Распределенные системы\lab_2\server_socket\server\obj\Debug\server.exe
+D:\2 Распределенные системы\lab_2\server_socket\server\obj\Debug\server.pdb
+D:\2 Распределенные системы\lab_2\server_socket\server\bin\Debug\server.exe
+D:\2 Распределенные системы\lab_2\server_socket\server\bin\Debug\server.pdb
+D:\2 Распределенные системы\lab_2\server_socket\server\bin\Debug\Bib.pdb
+D:\2 Распределенные системы\lab_2\server_socket\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+C:\Users\р\Desktop\lab_2\server_socket\server\bin\Debug\server.exe.config
+C:\Users\р\Desktop\lab_2\server_socket\server\obj\Debug\server.exe
+C:\Users\р\Desktop\lab_2\server_socket\server\obj\Debug\server.pdb
+C:\Users\р\Desktop\lab_2\server_socket\server\bin\Debug\server.exe
+C:\Users\р\Desktop\lab_2\server_socket\server\bin\Debug\server.pdb
+C:\Users\р\Desktop\lab_2\server_socket\server\bin\Debug\library.dll
+C:\Users\р\Desktop\lab_2\server_socket\server\bin\Debug\Bib.pdb
+C:\Users\р\Desktop\lab_2\server_socket\server\bin\Debug\library.pdb
+C:\Users\р\Desktop\lab_2\server_socket\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+D:\2 Распределенные системы\lab_2\server_socket\server\bin\Debug\library.dll
+D:\2 Распределенные системы\lab_2\server_socket\server\bin\Debug\library.pdb
+E:\2 Распределенные системы\lab_2\server_socket\server\bin\Debug\server.exe.config
+E:\2 Распределенные системы\lab_2\server_socket\server\obj\Debug\server.exe
+E:\2 Распределенные системы\lab_2\server_socket\server\obj\Debug\server.pdb
+E:\2 Распределенные системы\lab_2\server_socket\server\bin\Debug\server.exe
+E:\2 Распределенные системы\lab_2\server_socket\server\bin\Debug\server.pdb
+E:\2 Распределенные системы\lab_2\server_socket\server\bin\Debug\library.dll
+E:\2 Распределенные системы\lab_2\server_socket\server\bin\Debug\Bib.pdb
+E:\2 Распределенные системы\lab_2\server_socket\server\bin\Debug\library.pdb
+E:\2 Распределенные системы\lab_2\server_socket\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+C:\Users\р\Desktop\Проекты\lab_2\server_socket\server\bin\Debug\server.exe.config
+C:\Users\р\Desktop\Проекты\lab_2\server_socket\server\obj\Debug\server.exe
+C:\Users\р\Desktop\Проекты\lab_2\server_socket\server\obj\Debug\server.pdb
+C:\Users\р\Desktop\Проекты\lab_2\server_socket\server\bin\Debug\server.exe
+C:\Users\р\Desktop\Проекты\lab_2\server_socket\server\bin\Debug\server.pdb
+C:\Users\р\Desktop\Проекты\lab_2\server_socket\server\bin\Debug\library.dll
+C:\Users\р\Desktop\Проекты\lab_2\server_socket\server\bin\Debug\Bib.pdb
+C:\Users\р\Desktop\Проекты\lab_2\server_socket\server\bin\Debug\library.pdb
+C:\Users\р\Desktop\Проекты\lab_2\server_socket\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+C:\Users\р\Desktop\Проекты\Проекты\Клиент-сервер\server_socket\server\bin\Debug\server.exe.config
+C:\Users\р\Desktop\Проекты\Проекты\Клиент-сервер\server_socket\server\obj\Debug\server.exe
+C:\Users\р\Desktop\Проекты\Проекты\Клиент-сервер\server_socket\server\obj\Debug\server.pdb

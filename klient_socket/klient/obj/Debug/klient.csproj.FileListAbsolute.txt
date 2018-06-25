@@ -1,0 +1,72 @@
+c:\users\р\documents\visual studio 2013\Projects\klient\klient\bin\Debug\klient.exe.config
+c:\users\р\documents\visual studio 2013\Projects\klient\klient\bin\Debug\klient.exe
+c:\users\р\documents\visual studio 2013\Projects\klient\klient\bin\Debug\klient.pdb
+c:\users\р\documents\visual studio 2013\Projects\klient\klient\obj\Debug\klient.exe
+c:\users\р\documents\visual studio 2013\Projects\klient\klient\obj\Debug\klient.pdb
+c:\users\р\documents\visual studio 2013\Projects\klient\klient\obj\Debug\klient.csprojResolveAssemblyReference.cache
+D:\Операционные системы\лр 5\klient\klient\bin\Debug\klient.exe.config
+D:\Операционные системы\лр 5\klient\klient\obj\Debug\klient.exe
+D:\Операционные системы\лр 5\klient\klient\obj\Debug\klient.pdb
+D:\Операционные системы\лр 5\klient\klient\bin\Debug\klient.exe
+D:\Операционные системы\лр 5\klient\klient\bin\Debug\klient.pdb
+D:\Операционные системы\лр 5\klient\klient\obj\Debug\klient.csprojResolveAssemblyReference.cache
+C:\Users\р\Desktop\klient_socket\klient\bin\Debug\klient.exe.config
+C:\Users\р\Desktop\klient_socket\klient\obj\Debug\klient.exe
+C:\Users\р\Desktop\klient_socket\klient\obj\Debug\klient.pdb
+C:\Users\р\Desktop\klient_socket\klient\bin\Debug\klient.exe
+C:\Users\р\Desktop\klient_socket\klient\bin\Debug\klient.pdb
+C:\Users\р\Desktop\klient_socket\klient\obj\Debug\klient.csprojResolveAssemblyReference.cache
+C:\Users\р\Desktop\klient_socket\klient\bin\Debug\Bib.dll
+C:\Users\р\Desktop\klient_socket\klient\bin\Debug\Bib.pdb
+D:\2 Распределенные системы\lab_1\klient_socket\klient\bin\Debug\klient.exe.config
+D:\2 Распределенные системы\lab_1\klient_socket\klient\obj\Debug\klient.exe
+D:\2 Распределенные системы\lab_1\klient_socket\klient\obj\Debug\klient.pdb
+D:\2 Распределенные системы\lab_1\klient_socket\klient\bin\Debug\klient.exe
+D:\2 Распределенные системы\lab_1\klient_socket\klient\bin\Debug\klient.pdb
+D:\2 Распределенные системы\lab_1\klient_socket\klient\bin\Debug\Bib.pdb
+D:\2 Распределенные системы\lab_1\klient_socket\klient\obj\Debug\klient.csprojResolveAssemblyReference.cache
+F:\2 Распределенные системы\lab_1\klient_socket\klient\bin\Debug\klient.exe.config
+F:\2 Распределенные системы\lab_1\klient_socket\klient\obj\Debug\klient.exe
+F:\2 Распределенные системы\lab_1\klient_socket\klient\obj\Debug\klient.pdb
+E:\2 Распределенные системы\lab_1\klient_socket\klient\bin\Debug\klient.exe.config
+E:\2 Распределенные системы\lab_1\klient_socket\klient\obj\Debug\klient.exe
+E:\2 Распределенные системы\lab_1\klient_socket\klient\obj\Debug\klient.pdb
+D:\2 Распределенные системы\lab_2\klient_socket\klient\bin\Debug\klient.exe.config
+D:\2 Распределенные системы\lab_2\klient_socket\klient\obj\Debug\klient.exe
+D:\2 Распределенные системы\lab_2\klient_socket\klient\obj\Debug\klient.pdb
+D:\2 Распределенные системы\lab_2\klient_socket\klient\bin\Debug\klient.exe
+D:\2 Распределенные системы\lab_2\klient_socket\klient\bin\Debug\klient.pdb
+D:\2 Распределенные системы\lab_2\klient_socket\klient\bin\Debug\Bib.pdb
+D:\2 Распределенные системы\lab_2\klient_socket\klient\obj\Debug\klient.csprojResolveAssemblyReference.cache
+C:\Users\р\Desktop\lab_2\klient_socket\klient\bin\Debug\klient.exe.config
+C:\Users\р\Desktop\lab_2\klient_socket\klient\obj\Debug\klient.exe
+C:\Users\р\Desktop\lab_2\klient_socket\klient\obj\Debug\klient.pdb
+C:\Users\р\Desktop\lab_2\klient_socket\klient\bin\Debug\klient.exe
+C:\Users\р\Desktop\lab_2\klient_socket\klient\bin\Debug\klient.pdb
+C:\Users\р\Desktop\lab_2\klient_socket\klient\bin\Debug\library.dll
+C:\Users\р\Desktop\lab_2\klient_socket\klient\bin\Debug\Bib.pdb
+C:\Users\р\Desktop\lab_2\klient_socket\klient\bin\Debug\library.pdb
+C:\Users\р\Desktop\lab_2\klient_socket\klient\obj\Debug\klient.csprojResolveAssemblyReference.cache
+D:\2 Распределенные системы\lab_2\klient_socket\klient\bin\Debug\library.dll
+D:\2 Распределенные системы\lab_2\klient_socket\klient\bin\Debug\library.pdb
+E:\2 Распределенные системы\lab_2\klient_socket\klient\bin\Debug\klient.exe.config
+E:\2 Распределенные системы\lab_2\klient_socket\klient\obj\Debug\klient.exe
+E:\2 Распределенные системы\lab_2\klient_socket\klient\obj\Debug\klient.pdb
+E:\2 Распределенные системы\lab_2\klient_socket\klient\bin\Debug\klient.exe
+E:\2 Распределенные системы\lab_2\klient_socket\klient\bin\Debug\klient.pdb
+E:\2 Распределенные системы\lab_2\klient_socket\klient\bin\Debug\library.dll
+E:\2 Распределенные системы\lab_2\klient_socket\klient\bin\Debug\Bib.pdb
+E:\2 Распределенные системы\lab_2\klient_socket\klient\bin\Debug\library.pdb
+E:\2 Распределенные системы\lab_2\klient_socket\klient\obj\Debug\klient.csprojResolveAssemblyReference.cache
+C:\Users\р\Desktop\Проекты\lab_2\klient_socket\klient\bin\Debug\klient.exe.config
+C:\Users\р\Desktop\Проекты\lab_2\klient_socket\klient\obj\Debug\klient.exe
+C:\Users\р\Desktop\Проекты\lab_2\klient_socket\klient\obj\Debug\klient.pdb
+C:\Users\р\Desktop\Проекты\lab_2\klient_socket\klient\bin\Debug\klient.exe
+C:\Users\р\Desktop\Проекты\lab_2\klient_socket\klient\bin\Debug\klient.pdb
+C:\Users\р\Desktop\Проекты\lab_2\klient_socket\klient\bin\Debug\library.dll
+C:\Users\р\Desktop\Проекты\lab_2\klient_socket\klient\bin\Debug\Bib.pdb
+C:\Users\р\Desktop\Проекты\lab_2\klient_socket\klient\bin\Debug\library.pdb
+C:\Users\р\Desktop\Проекты\lab_2\klient_socket\klient\obj\Debug\klient.csprojResolveAssemblyReference.cache
+C:\Users\р\Desktop\Проекты\Проекты\Клиент-сервер\klient_socket\klient\bin\Debug\klient.exe.config
+C:\Users\р\Desktop\Проекты\Проекты\Клиент-сервер\klient_socket\klient\obj\Debug\klient.exe
+C:\Users\р\Desktop\Проекты\Проекты\Клиент-сервер\klient_socket\klient\obj\Debug\klient.pdb
